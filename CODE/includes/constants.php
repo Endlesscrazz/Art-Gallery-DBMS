@@ -1,0 +1,6 @@
+<?php
+
+// Database Constants
+define("
+
+?>
